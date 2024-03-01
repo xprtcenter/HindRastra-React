@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.72bf8a4b.css",
+    "main.css": "/static/css/main.82a9b5fa.css",
     "main.js": "/static/js/main.0c858851.js",
     "static/js/453.e38886a6.chunk.js": "/static/js/453.e38886a6.chunk.js",
     "static/media/Universal-Humanity-Flag-of-Peace.jpg": "/static/media/Universal-Humanity-Flag-of-Peace.a9cee1a985b93378df51.jpg",
@@ -10,12 +10,12 @@
     "static/media/flag_name_white.png": "/static/media/flag_name_white.a9e7a884fb1bee1e267a.png",
     "static/media/bg.jpeg": "/static/media/bg.e2311b4bca9d9597b3a3.jpeg",
     "index.html": "/index.html",
-    "main.72bf8a4b.css.map": "/static/css/main.72bf8a4b.css.map",
+    "main.82a9b5fa.css.map": "/static/css/main.82a9b5fa.css.map",
     "main.0c858851.js.map": "/static/js/main.0c858851.js.map",
     "453.e38886a6.chunk.js.map": "/static/js/453.e38886a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72bf8a4b.css",
+    "static/css/main.82a9b5fa.css",
     "static/js/main.0c858851.js"
   ]
 }
